@@ -11,12 +11,12 @@ Here's a glimpse into my extensive toolbox:
 - **Languages**: JavaScript, TypeScript, HTML, CSS, Python, Go, Dart
 - **Front-end**: React.js, Vue.js, Next.js, Angular
 - **Back-end**: Node.js, NestJS, Express.js
-- **Databases**: MongoDB, PostgreSQL, SQLite
+- **Databases**: MongoDB, PostgreSQL
 - **Other Technologies and Tools**: Tailwind CSS, Docker, AWS
 
 ## Contact Me
 Feel free to reach out to me if you'd like to collaborate, have any questions, or just want to chat. Here's how you can contact me:
-- Email: alois.carrera@example.com
+- Email: aloiscarrera@gmail.com
 - LinkedIn: [Alois Carrera](https://www.linkedin.com/in/alois-carrera/)
 - Twitter: [@AloisCRR](https://twitter.com/AloisCRR)
 
