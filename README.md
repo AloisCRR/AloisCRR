@@ -8,13 +8,51 @@ I'm Alois Carrera, a dynamic Full Stack Engineer and Solutions Architect. I spec
 ## Skills
 My skill set is extensive and diverse, covering various aspects of software development:
 
-- **Programming Languages**: JavaScript, TypeScript, Python, Go
-- **Front-end Development**: React.js, Next.js, Vue.js, Tailwind CSS
-- **Back-end Development**: Node.js, NestJS, Serverless Computing
-- **Database Management**: MongoDB, PostgreSQL
-- **Cloud Computing and DevOps**: AWS (including Lambda), Docker, CI/CD Pipelines, Nx
-- **System Design and Architecture**: Solutions Engineering, Systems Design, API Development
-- **Other Technologies**: Elasticsearch, AWS IoT, Grafana, MQTT
+Sure, here's the complete text with AWS Lambda added to the AWS sub-list:
+
+- **Programming Languages**:
+  - TypeScript
+  - JavaScript
+  - Python
+  - Go
+
+- **Front-end Development**:
+  - React.js
+  - Next.js
+  - Vue.js
+  - Tailwind CSS
+
+- **Back-end Development**:
+  - Node.js
+  - NestJS
+  - Serverless Computing
+
+- **Database Management**:
+  - MongoDB
+  - PostgreSQL
+
+- **Cloud Computing and DevOps**:
+  - AWS
+    - S3
+    - EC2 y EMR
+    - RDS
+    - VPC y LB
+    - Glue
+    - Athena
+    - Lambda
+  - Docker
+  - CI/CD Pipelines
+  - Nx
+
+- **System Design and Architecture**:
+  - Solutions Engineering
+  - Systems Design
+  - API Development
+
+- **Other Technologies**:
+  - Elasticsearch
+  - Grafana
+  - MQTT
 
 ## Contact Me
 Let's connect! Whether it's for collaboration, sharing ideas, or just a casual chat, I'm always open to new connections and opportunities. You can reach me through the following channels:
