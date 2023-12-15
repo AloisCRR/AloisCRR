@@ -54,6 +54,11 @@ Sure, here's the complete text with AWS Lambda added to the AWS sub-list:
   - Grafana
   - MQTT
 
+## Experience Highlights
+- **Eprezto**: Lead Developer for International Expansion, Solutions Architect
+- **ESALab**: Developed an intelligent irrigation control system using IoT technologies
+- **EWEX**: Led REST API development with NestJS on a Node.js platform
+
 ## Contact Me
 Let's connect! Whether it's for collaboration, sharing ideas, or just a casual chat, I'm always open to new connections and opportunities. You can reach me through the following channels:
 - Email: aloiscarrera@gmail.com
