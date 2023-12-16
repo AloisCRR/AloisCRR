@@ -8,8 +8,6 @@ I'm Alois Carrera, a dynamic Full Stack Engineer and Solutions Architect. I spec
 ## Skills
 My skill set is extensive and diverse, covering various aspects of software development:
 
-Sure, here's the complete text with AWS Lambda added to the AWS sub-list:
-
 - **Programming Languages**:
   - TypeScript
   - JavaScript
