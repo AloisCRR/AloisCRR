@@ -5,53 +5,6 @@
 ## Introduction
 I'm Alois Carrera, a dynamic Full Stack Engineer and Solutions Architect. I specialize in integrating complex systems and developing scalable web applications. My work spans across multiple domains, particularly in the insurance sector, where I have led significant digital transformation projects. My approach to technology is rooted in agile methodologies, and I am an advocate for efficient, scalable, and maintainable code.
 
-## Skills
-My skill set is extensive and diverse, covering various aspects of software development:
-
-- **Programming Languages**:
-  - TypeScript
-  - JavaScript
-  - Python
-  - Go
-
-- **Front-end Development**:
-  - React.js
-  - Next.js
-  - Vue.js
-  - Tailwind CSS
-
-- **Back-end Development**:
-  - Node.js
-  - NestJS
-  - Serverless Computing
-
-- **Database Management**:
-  - MongoDB
-  - PostgreSQL
-
-- **Cloud Computing and DevOps**:
-  - AWS
-    - S3
-    - EC2 y EMR
-    - RDS
-    - VPC y LB
-    - Glue
-    - Athena
-    - Lambda
-  - Docker
-  - CI/CD Pipelines
-  - Nx
-
-- **System Design and Architecture**:
-  - Solutions Engineering
-  - Systems Design
-  - API Development
-
-- **Other Technologies**:
-  - Elasticsearch
-  - Grafana
-  - MQTT
-
 ## Experience Highlights
 - **Eprezto**: Lead Developer for International Expansion, Solutions Architect
 - **ESALab**: Developed an intelligent irrigation control system using IoT technologies
@@ -60,6 +13,7 @@ My skill set is extensive and diverse, covering various aspects of software deve
 ## Contact Me
 Let's connect! Whether it's for collaboration, sharing ideas, or just a casual chat, I'm always open to new connections and opportunities. You can reach me through the following channels:
 - Email: aloiscarrera@gmail.com
+- Resume: https://aloiscrr.github.io/resume/
 - LinkedIn: [Alois Carrera](https://www.linkedin.com/in/alois-carrera/)
 - Twitter: [@AloisCRR](https://twitter.com/AloisCRR)
 
