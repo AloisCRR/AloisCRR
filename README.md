@@ -19,7 +19,7 @@ My experience spans successful project leadership and delivery across insurance 
 
 ## Experience Highlights 🚀
 
-* **Integrations and Analytics Specialist @ Hola Moda (Current):** Driving data-driven decisions for the H&M franchise in Central America and the Caribbean by developing robust data pipelines and insightful visualizations using **Python, PowerBI, and SAP Business One**. Focused on integrating **H&M Global API** for optimized merchandise management.
+* **Integrations and Analytics Specialist @ Hola Moda (Current):** Driving data-driven decisions for the H&M franchise in Central America and the Caribbean by developing robust data pipelines and insightful visualizations using **Python, PowerBI, and Windmill (Developer platform and workflow engine)**. Focused on integrating **H&M Global API** with ERP, WMS and PoS (Point of Sale) systems.
 * **Solutions Architect @ Eprezto:** Led international expansion projects, architecting **scalable vehicle insurance systems** and integrating **Visa Cybersource** payment gateway. Built a **monorepo with Nx, Next.js, and Serverless Framework** for efficient development and deployment.
 * **Software Engineer @ Eprezto:** Enhanced website performance and user experience by migrating to **Next.js with TailwindCSS**, optimizing **SEO**, and improving payment integrations.
 * **Research Intern @ ESALab:** Developed an **intelligent IoT-based irrigation control system** using **Arduino, MySensors, and AWS IoT**, contributing to sustainable agriculture.
