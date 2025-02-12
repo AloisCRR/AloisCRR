@@ -45,7 +45,7 @@ Here are some of the technologies I'm proficient in:
 **Tools & Technologies:**
 `REST APIs` `GraphQL` `SAP Business One` `Cybersource` `InfluxDB` `Telegraf` `Grafana` `PowerBI` `Git` `CI/CD` `Clean Architecture` `SOLID Principles`
 
-## WakaTime - Weekly Development Stats 📊
+## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
