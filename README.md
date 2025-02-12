@@ -8,7 +8,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AloisCRR&show_icons=true&theme=dark)](https://github.com/AloisCRR)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AloisCRR&layout=compact&theme=dark)](https://github.com/AloisCRR)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AloisCRR&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=AloisCRR)](https://git.io/streak-stats) -->
 [![Trophies](https://github-profile-trophy.vercel.app/?username=AloisCRR&theme=dark)](https://github.com/AloisCRR)
 
 ## About Me 👋
