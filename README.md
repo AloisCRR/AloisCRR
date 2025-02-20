@@ -56,8 +56,6 @@ Here are some of the technologies I'm proficient in:
 
 > 📦 54.1 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -91,18 +89,16 @@ Sunday                   477 commits         ███████░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████░░░░░░░░░░░░   50.25 % 
-Python                   8 mins              ████████████░░░░░░░░░░░░░   49.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AloisCRR                 8 mins              █████████████░░░░░░░░░░░░   50.25 % 
-notes-ai-agent-api       8 mins              ████████████░░░░░░░░░░░░░   49.75 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,7 +118,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2025 18:45:56 UTC
+ Last Updated on 20/02/2025 18:45:56 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
