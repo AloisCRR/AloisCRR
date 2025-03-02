@@ -89,16 +89,19 @@ Sunday                   477 commits         ███████░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 hr 9 mins         ██████████████████████░░░   89.25 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 18 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+docker-stacks            1 hr 8 mins         ██████████████████████░░░   87.51 % 
+notes-ai-agent           7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+notes-ai-agent-api       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +121,7 @@ Go                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2025 18:43:12 UTC
+ Last Updated on 02/03/2025 18:45:42 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
