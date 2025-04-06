@@ -50,7 +50,7 @@ Here are some of the technologies I'm proficient in:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C977%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -91,18 +91,17 @@ Sunday                   479 commits         ███████░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-Python                   10 mins             ███████████░░░░░░░░░░░░░░   44.08 % 
-Markdown                 7 mins              ████████░░░░░░░░░░░░░░░░░   31.96 % 
-CSV                      5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Markdown                 7 mins              ██████████████████░░░░░░░   73.57 % 
+Python                   2 mins              ███████░░░░░░░░░░░░░░░░░░   26.43 % 
 
 🔥 Editors: 
-Cursor                   24 mins             █████████████████████████   100.00 % 
+Cursor                   10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-crm-data-analysis        24 mins             █████████████████████████   100.00 % 
+crm-data-analysis        10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.00 % 
+Linux                    10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,7 +121,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2025 18:43:56 UTC
+ Last Updated on 06/04/2025 18:44:50 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
