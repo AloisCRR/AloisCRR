@@ -91,19 +91,16 @@ Sunday                   479 commits         ███████░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-Astro                    8 mins              ████████████████████████░   94.05 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-portfolio                8 mins              █████████████████████████   99.84 % 
-resume                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,7 +120,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2025 18:48:28 UTC
+ Last Updated on 26/04/2025 18:45:30 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
