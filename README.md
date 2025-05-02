@@ -48,15 +48,11 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C980%20hrs%207%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 56.0 kB Used in GitHub's Storage 
- > 
-> 🏆 96 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -120,7 +116,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 18:49:11 UTC
+ Last Updated on 02/05/2025 18:48:32 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
