@@ -56,7 +56,7 @@ Here are some of the technologies I'm proficient in:
 
 > 📦 56.7 kB Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -120,7 +120,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2025 18:44:05 UTC
+ Last Updated on 14/09/2025 18:44:18 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
