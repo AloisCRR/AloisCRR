@@ -48,6 +48,8 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C981%20hrs%201%20min-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -62,6 +64,45 @@ Here are some of the technologies I'm proficient in:
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                473 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+🌆 Daytime                691 commits         █████████░░░░░░░░░░░░░░░░   36.14 % 
+🌃 Evening                649 commits         ████████░░░░░░░░░░░░░░░░░   33.94 % 
+🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Tuesday                  193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Wednesday                85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Thursday                 136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Friday                   155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Saturday                 613 commits         ████████░░░░░░░░░░░░░░░░░   32.06 % 
+Sunday                   484 commits         ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Panama
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -79,7 +120,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:45:33 UTC
+ Last Updated on 04/10/2025 18:42:36 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
