@@ -48,7 +48,7 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C001%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C002%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -56,7 +56,7 @@ Here are some of the technologies I'm proficient in:
 
 > 📦 58.2 kB Used in GitHub's Storage 
  > 
-> 🏆 136 Contributions in the Year 2025
+> 🏆 140 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -91,21 +91,21 @@ Sunday                   486 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               5 hrs 6 mins        ███████████████████░░░░░░   77.53 % 
-YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+TypeScript               5 hrs 7 mins        ███████████████████████░░   91.76 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-issa-craves-storefront   5 hrs 54 mins       ██████████████████████░░░   89.64 % 
-issa-craves-store        40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+issa-craves-storefront   5 hrs 30 mins       █████████████████████████   98.86 % 
+issa-craves-store        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-WSL                      6 hrs 34 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +125,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2025 18:44:14 UTC
+ Last Updated on 26/10/2025 18:45:16 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
