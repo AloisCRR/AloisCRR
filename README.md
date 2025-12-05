@@ -54,7 +54,7 @@ Here are some of the technologies I'm proficient in:
 
 **🐱 My GitHub Data** 
 
-> 📦 59.2 kB Used in GitHub's Storage 
+> 📦 59.3 kB Used in GitHub's Storage 
  > 
 > 🏆 173 Contributions in the Year 2025
  > 
@@ -91,21 +91,16 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               19 mins             █████████████░░░░░░░░░░░░   50.82 % 
-JSON                     14 mins             █████████░░░░░░░░░░░░░░░░   36.82 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mandu-restaurant-chat    21 mins             ██████████████░░░░░░░░░░░   55.16 % 
-vllm-ocr-parsing         17 mins             ███████████░░░░░░░░░░░░░░   44.84 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +120,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2025 18:54:20 UTC
+ Last Updated on 05/12/2025 18:49:11 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
