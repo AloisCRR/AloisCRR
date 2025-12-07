@@ -54,15 +54,15 @@ Here are some of the technologies I'm proficient in:
 
 **🐱 My GitHub Data** 
 
-> 📦 59.3 kB Used in GitHub's Storage 
+> 📦 59.4 kB Used in GitHub's Storage 
  > 
-> 🏆 173 Contributions in the Year 2025
+> 🏆 175 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 37 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -106,11 +106,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            ██████████░░░░░░░░░░░░░░░   41.46 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               18 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
@@ -120,7 +120,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2025 18:46:33 UTC
+ Last Updated on 07/12/2025 18:46:11 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
