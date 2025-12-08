@@ -56,7 +56,7 @@ Here are some of the technologies I'm proficient in:
 
 > 📦 59.4 kB Used in GitHub's Storage 
  > 
-> 🏆 175 Contributions in the Year 2025
+> 🏆 177 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -91,16 +91,20 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 19 mins       ██████████████████████░░░   88.36 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              3 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mandu-restaurant-chat    3 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,7 +124,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2025 18:46:11 UTC
+ Last Updated on 08/12/2025 18:52:33 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
