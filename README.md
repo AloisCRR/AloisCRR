@@ -48,7 +48,7 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C033%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C036%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,7 +56,7 @@ Here are some of the technologies I'm proficient in:
 
 > 📦 59.4 kB Used in GitHub's Storage 
  > 
-> 🏆 177 Contributions in the Year 2025
+> 🏆 178 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -91,20 +91,20 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               3 hrs 19 mins       ██████████████████████░░░   88.36 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TypeScript               3 hrs 43 mins       █████████████████████░░░░   85.47 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-Antigravity              3 hrs 45 mins       █████████████████████████   100.00 % 
+Antigravity              4 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mandu-restaurant-chat    3 hrs 45 mins       █████████████████████████   100.00 % 
+mandu-restaurant-chat    4 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      3 hrs 45 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +124,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2025 18:52:33 UTC
+ Last Updated on 09/12/2025 18:50:14 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
