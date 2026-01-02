@@ -48,8 +48,6 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C037%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -64,45 +62,6 @@ Here are some of the technologies I'm proficient in:
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                504 commits         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-🌆 Daytime                740 commits         █████████░░░░░░░░░░░░░░░░   36.24 % 
-🌃 Evening                691 commits         ████████░░░░░░░░░░░░░░░░░   33.84 % 
-🌙 Night                  107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Tuesday                  247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Wednesday                95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Thursday                 138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Friday                   167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Saturday                 635 commits         ████████░░░░░░░░░░░░░░░░░   31.10 % 
-Sunday                   496 commits         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Panama
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -120,7 +79,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:51:42 UTC
+ Last Updated on 02/01/2026 18:51:29 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
