@@ -91,20 +91,16 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-Other                    28 mins             ██████████████████████░░░   88.49 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-resume                   17 mins             ██████████████░░░░░░░░░░░   54.25 % 
-apartment-search-panama  14 mins             ███████████░░░░░░░░░░░░░░   45.75 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +120,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2026 18:56:18 UTC
+ Last Updated on 02/03/2026 19:10:49 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
