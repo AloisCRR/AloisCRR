@@ -48,6 +48,8 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C296%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -118,7 +120,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:54:36 UTC
+ Last Updated on 25/07/2026 19:42:07 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
