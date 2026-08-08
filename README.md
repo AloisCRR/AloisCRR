@@ -93,22 +93,42 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               25 mins             ████████████░░░░░░░░░░░░░   47.76 % 
+JSON                     14 mins             ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Markdown                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+budget-planning          52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 25 mins (47.52%)
+
+✍️ 1,169 lines written by AI, 1 lines written by hand (99.91% AI-written)
+
+🔤 44,255 Input Tokens, 8,005 Output Tokens
+
+💵 $0.46 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Glm                      1,173 lines         █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.91% of written lines came from AI
+📄 Detailed Prompter — average 1,107 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,7 +148,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:27:39 UTC
+ Last Updated on 08/08/2026 19:08:01 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
