@@ -48,23 +48,23 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C584%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C593%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 60.8 kB Used in GitHub's Storage 
+> 📦 61.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 16 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 37 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -93,57 +93,57 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               11 hrs 15 mins      ██████████████████░░░░░░░   70.35 % 
-Markdown                 1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-JSON                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+TypeScript               11 hrs 38 mins      ████████████████░░░░░░░░░   65.16 % 
+Markdown                 3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+JSON                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 27 mins      ████████████████████████░   96.70 % 
-Opencode Cli             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+VS Code                  17 hrs 19 mins      ████████████████████████░   96.97 % 
+Opencode Cli             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🐱‍💻 Projects: 
-budget-planning          15 hrs 59 mins      █████████████████████████   100.00 % 
+budget-planning          17 hrs 52 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      15 hrs 59 mins      █████████████████████████   100.00 % 
+WSL                      17 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 36 mins (60.06%)
+⏱ AI Coding Time: 11 hrs 22 mins (63.69%)
 
-✍️ 7,792 lines written by AI, 380 lines written by hand (95.35% AI-written)
+✍️ 9,294 lines written by AI, 380 lines written by hand (96.07% AI-written)
 
-🔤 2,439,072 Input Tokens, 270,296 Output Tokens
+🔤 3,085,663 Input Tokens, 384,195 Output Tokens
 
-💵 $21.70 Estimated AI Cost This Week
+💵 $40.23 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 59 AI Prompts
+🧠 44 AI Sessions, 74 AI Prompts
 
-Glm                      5,927 lines         █████████████████░░░░░░░░   69.95 % 
-GPT                      1,807 lines         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-Qwen                     571 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-M                        168 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Glm                      7,456 lines         ███████████████████░░░░░░   74.34 % 
+GPT                      1,835 lines         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Qwen                     571 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+M                        168 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.35% of written lines came from AI
-📚 Verbose Prompter — average 4,600 characters per prompt
+🤖 AI-Driven — 96.07% of written lines came from AI
+📚 Verbose Prompter — average 4,437 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 6.05% of changed lines were hand-edited
+🚀 High AI Trust — 5.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               19 repos            ███████████░░░░░░░░░░░░░░   44.19 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
@@ -153,7 +153,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:29:20 UTC
+ Last Updated on 11/08/2026 19:33:19 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
