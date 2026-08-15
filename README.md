@@ -93,47 +93,47 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               11 hrs 38 mins      ████████████████░░░░░░░░░   65.16 % 
-Markdown                 3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-JSON                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               11 hrs 59 mins      █████████████████░░░░░░░░   67.53 % 
+Markdown                 2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 19 mins      ████████████████████████░   96.97 % 
-Opencode Cli             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+VS Code                  17 hrs 11 mins      ████████████████████████░   96.75 % 
+Opencode Cli             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🐱‍💻 Projects: 
-budget-planning          17 hrs 52 mins      █████████████████████████   100.00 % 
+budget-planning          17 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      17 hrs 52 mins      █████████████████████████   100.00 % 
+WSL                      17 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 22 mins (63.69%)
+⏱ AI Coding Time: 11 hrs 43 mins (66.05%)
 
-✍️ 9,294 lines written by AI, 380 lines written by hand (96.07% AI-written)
+✍️ 8,277 lines written by AI, 379 lines written by hand (95.62% AI-written)
 
-🔤 3,085,663 Input Tokens, 384,195 Output Tokens
+🔤 3,290,622 Input Tokens, 410,774 Output Tokens
 
-💵 $40.23 Estimated AI Cost This Week
+💵 $45.64 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 74 AI Prompts
+🧠 43 AI Sessions, 77 AI Prompts
 
-Glm                      7,456 lines         ███████████████████░░░░░░   74.34 % 
-GPT                      1,835 lines         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Qwen                     571 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-M                        168 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Glm                      6,454 lines         ██████████████████░░░░░░░   71.47 % 
+GPT                      1,837 lines         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Qwen                     571 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+M                        168 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.07% of written lines came from AI
-📚 Verbose Prompter — average 4,437 characters per prompt
+🤖 AI-Driven — 95.62% of written lines came from AI
+📚 Verbose Prompter — average 4,330 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 5.16% of changed lines were hand-edited
+🚀 High AI Trust — 5.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -153,7 +153,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 19:27:35 UTC
+ Last Updated on 15/08/2026 18:55:02 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
