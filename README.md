@@ -48,15 +48,15 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C600%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C602%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 61.2 kB Used in GitHub's Storage 
+> 📦 61.3 kB Used in GitHub's Storage 
  > 
 > 🏆 24 Contributions in the Year 2026
  > 
@@ -93,47 +93,46 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               5 hrs 46 mins       █████████████████░░░░░░░░   67.10 % 
-Markdown                 2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript               5 hrs 34 mins       ████████████████████░░░░░   79.98 % 
+Markdown                 1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 34 mins       █████████████████████████   99.54 % 
-Opencode Cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+VS Code                  6 hrs 55 mins       █████████████████████████   99.51 % 
+Opencode Cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-budget-planning          8 hrs 36 mins       █████████████████████████   100.00 % 
+budget-planning          6 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      8 hrs 36 mins       █████████████████████████   100.00 % 
+WSL                      6 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 25 mins (86.26%)
+⏱ AI Coding Time: 5 hrs 52 mins (84.35%)
 
-✍️ 6,071 lines written by AI, 113 lines written by hand (98.17% AI-written)
+✍️ 4,588 lines written by AI, 113 lines written by hand (97.6% AI-written)
 
-🔤 3,192,259 Input Tokens, 708,599 Output Tokens
+🔤 2,845,767 Input Tokens, 631,739 Output Tokens
 
-💵 $210.50 Estimated AI Cost This Week
+💵 $198.42 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 77 AI Prompts
+🧠 27 AI Sessions, 66 AI Prompts
 
-Glm                      4,908 lines         ██████████████████░░░░░░░   71.79 % 
-Deepseek                 1,422 lines         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-GPT                      361 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-M                        114 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Qwen                     32 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Glm                      3,293 lines         █████████████████░░░░░░░░   68.85 % 
+Deepseek                 1,422 lines         ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+GPT                      68 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.17% of written lines came from AI
-📚 Verbose Prompter — average 3,081 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.23% of changed lines were hand-edited
+🤖 AI-Driven — 97.6% of written lines came from AI
+📚 Verbose Prompter — average 2,842 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 4.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -153,7 +152,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:07:24 UTC
+ Last Updated on 18/08/2026 19:06:48 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
