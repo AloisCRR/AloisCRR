@@ -93,46 +93,46 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               5 hrs 34 mins       ████████████████████░░░░░   79.98 % 
-Markdown                 1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TypeScript               6 hrs 4 mins        ████████████████████░░░░░   81.50 % 
+Markdown                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 55 mins       █████████████████████████   99.51 % 
-Opencode Cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+VS Code                  7 hrs 26 mins       █████████████████████████   99.76 % 
+Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-budget-planning          6 hrs 57 mins       █████████████████████████   100.00 % 
+budget-planning          7 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      6 hrs 57 mins       █████████████████████████   100.00 % 
+WSL                      7 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 52 mins (84.35%)
+⏱ AI Coding Time: 6 hrs 17 mins (84.37%)
 
-✍️ 4,588 lines written by AI, 113 lines written by hand (97.6% AI-written)
+✍️ 4,579 lines written by AI, 114 lines written by hand (97.57% AI-written)
 
-🔤 2,845,767 Input Tokens, 631,739 Output Tokens
+🔤 2,861,064 Input Tokens, 653,707 Output Tokens
 
-💵 $198.42 Estimated AI Cost This Week
+💵 $202.53 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 66 AI Prompts
+🧠 25 AI Sessions, 65 AI Prompts
 
-Glm                      3,293 lines         █████████████████░░░░░░░░   68.85 % 
-Deepseek                 1,422 lines         ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-GPT                      68 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Glm                      3,293 lines         █████████████████░░░░░░░░   69.05 % 
+Deepseek                 1,422 lines         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+GPT                      54 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.6% of written lines came from AI
-📚 Verbose Prompter — average 2,842 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 4.23% of changed lines were hand-edited
+🤖 AI-Driven — 97.57% of written lines came from AI
+📚 Verbose Prompter — average 2,818 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 4.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -152,7 +152,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:06:48 UTC
+ Last Updated on 19/08/2026 19:02:06 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
