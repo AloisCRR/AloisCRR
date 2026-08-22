@@ -56,9 +56,9 @@ Here are some of the technologies I'm proficient in:
 
 **🐱 My GitHub Data** 
 
-> 📦 61.3 kB Used in GitHub's Storage 
+> 📦 61.6 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2026
+> 🏆 32 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,48 +93,49 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               8 hrs 46 mins       ███████████████████░░░░░░   75.67 % 
-Markdown                 2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript               13 hrs 4 mins       █████████████████░░░░░░░░   68.49 % 
+Markdown                 4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 32 mins      █████████████████████████   99.59 % 
-Opencode Cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+VS Code                  19 hrs 3 mins       █████████████████████████   99.75 % 
+Opencode Cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-budget-planning          11 hrs 19 mins      ████████████████████████░   97.74 % 
-opencode                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-markitdown               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+budget-planning          18 hrs 39 mins      ████████████████████████░   97.67 % 
+opencode                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+markitdown               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-WSL                      11 hrs 35 mins      █████████████████████████   100.00 % 
+WSL                      19 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 50 mins (84.99%)
+⏱ AI Coding Time: 16 hrs 38 mins (87.11%)
 
-✍️ 6,395 lines written by AI, 119 lines written by hand (98.17% AI-written)
+✍️ 13,023 lines written by AI, 146 lines written by hand (98.89% AI-written)
 
-🔤 5,585,354 Input Tokens, 1,037,139 Output Tokens
+🔤 8,689,213 Input Tokens, 1,676,603 Output Tokens
 
-💵 $350.36 Estimated AI Cost This Week
+💵 $591.57 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 114 AI Prompts
+🧠 77 AI Sessions, 201 AI Prompts
 
-Glm                      3,660 lines         ██████████████░░░░░░░░░░░   54.77 % 
-Deepseek                 2,650 lines         ██████████░░░░░░░░░░░░░░░   39.65 % 
-GPT                      373 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             5,030 lines         █████████░░░░░░░░░░░░░░░░   37.50 % 
+Glm                      4,341 lines         ████████░░░░░░░░░░░░░░░░░   32.36 % 
+Deepseek                 3,671 lines         ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+GPT                      373 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.17% of written lines came from AI
-📚 Verbose Prompter — average 2,591 characters per prompt
+🤖 AI-Driven — 98.89% of written lines came from AI
+📚 Verbose Prompter — average 2,464 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.19% of changed lines were hand-edited
+🚀 High AI Trust — 1.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:06:34 UTC
+ Last Updated on 22/08/2026 18:57:07 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
