@@ -93,51 +93,50 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               8 hrs 30 mins       █████████████░░░░░░░░░░░░   50.53 % 
-Markdown                 4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-TOML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TypeScript               7 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.56 % 
+Markdown                 4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+TOML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 47 mins      █████████████████████████   99.82 % 
+VS Code                  16 hrs 5 mins       █████████████████████████   99.82 % 
 Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-budget-planning          14 hrs 8 mins       █████████████████████░░░░   84.09 % 
-ovisocr2                 1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-opencode                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-vllm-ocr-parsing         16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-markitdown               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+budget-planning          13 hrs 26 mins      █████████████████████░░░░   83.40 % 
+ovisocr2                 1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+opencode                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+vllm-ocr-parsing         16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+markitdown               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-WSL                      16 hrs 49 mins      █████████████████████████   100.00 % 
+WSL                      16 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 24 mins (85.65%)
+⏱ AI Coding Time: 13 hrs 47 mins (85.5%)
 
-✍️ 11,186 lines written by AI, 481 lines written by hand (95.88% AI-written)
+✍️ 11,176 lines written by AI, 480 lines written by hand (95.88% AI-written)
 
-🔤 8,273,492 Input Tokens, 1,463,425 Output Tokens
+🔤 7,953,656 Input Tokens, 1,402,632 Output Tokens
 
-💵 $509.88 Estimated AI Cost This Week
+💵 $496.58 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 186 AI Prompts
+🧠 73 AI Sessions, 183 AI Prompts
 
-Opencode-Cli             7,134 lines         ███████████████░░░░░░░░░░   61.81 % 
-Deepseek                 2,249 lines         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Glm                      1,839 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-GPT                      319 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             7,134 lines         ███████████████░░░░░░░░░░   61.87 % 
+Deepseek                 2,249 lines         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Glm                      1,829 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+GPT                      319 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 95.88% of written lines came from AI
-📚 Verbose Prompter — average 2,888 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 4.15% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,920 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 4.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +156,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:08:37 UTC
+ Last Updated on 26/08/2026 20:28:20 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
