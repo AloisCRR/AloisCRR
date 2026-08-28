@@ -93,50 +93,47 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               7 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.56 % 
-Markdown                 4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-TOML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+TypeScript               5 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.84 % 
+Markdown                 2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+TOML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 5 mins       █████████████████████████   99.82 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+VS Code                  11 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-budget-planning          13 hrs 26 mins      █████████████████████░░░░   83.40 % 
-ovisocr2                 1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-opencode                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-vllm-ocr-parsing         16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-markitdown               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+budget-planning          9 hrs 34 mins       ████████████████████░░░░░   79.86 % 
+ovisocr2                 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+vllm-ocr-parsing         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+opencode                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-WSL                      16 hrs 7 mins       █████████████████████████   100.00 % 
+WSL                      11 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 47 mins (85.5%)
+⏱ AI Coding Time: 10 hrs 13 mins (85.29%)
 
-✍️ 11,176 lines written by AI, 480 lines written by hand (95.88% AI-written)
+✍️ 9,360 lines written by AI, 475 lines written by hand (95.17% AI-written)
 
-🔤 7,953,656 Input Tokens, 1,402,632 Output Tokens
+🔤 5,217,996 Input Tokens, 1,017,215 Output Tokens
 
-💵 $496.58 Estimated AI Cost This Week
+💵 $348.18 Estimated AI Cost This Week
 
-🧠 73 AI Sessions, 183 AI Prompts
+🧠 55 AI Sessions, 134 AI Prompts
 
-Opencode-Cli             7,134 lines         ███████████████░░░░░░░░░░   61.87 % 
-Deepseek                 2,249 lines         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Glm                      1,829 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-GPT                      319 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Opencode-Cli             7,134 lines         ███████████████████░░░░░░   74.18 % 
+Glm                      1,462 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Deepseek                 1,021 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.88% of written lines came from AI
-📚 Verbose Prompter — average 2,920 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.14% of changed lines were hand-edited
+🤖 AI-Driven — 95.17% of written lines came from AI
+📚 Verbose Prompter — average 3,150 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 4.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +153,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:28:20 UTC
+ Last Updated on 28/08/2026 02:15:48 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
