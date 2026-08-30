@@ -58,7 +58,7 @@ Here are some of the technologies I'm proficient in:
 
 > 📦 61.7 kB Used in GitHub's Storage 
  > 
-> 🏆 37 Contributions in the Year 2026
+> 🏆 40 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,46 +93,47 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-Python                   1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-TypeScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-TOML                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Text                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+TypeScript               3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.04 % 
+Markdown                 1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Python                   1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+TOML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-budget-planning          2 hrs 14 mins       █████████████░░░░░░░░░░░░   50.04 % 
-ovisocr2                 1 hr 57 mins        ███████████░░░░░░░░░░░░░░   43.89 % 
-vllm-ocr-parsing         16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+budget-planning          5 hrs 59 mins       ██████████████████░░░░░░░   70.10 % 
+ovisocr2                 1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+opencode                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+vllm-ocr-parsing         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 💻 Operating System: 
-WSL                      4 hrs 27 mins       █████████████████████████   100.00 % 
+WSL                      8 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 25 mins (76.7%)
+⏱ AI Coding Time: 6 hrs 48 mins (79.59%)
 
-✍️ 2,732 lines written by AI, 448 lines written by hand (85.91% AI-written)
+✍️ 4,560 lines written by AI, 462 lines written by hand (90.8% AI-written)
 
-🔤 2,112,927 Input Tokens, 377,391 Output Tokens
+🔤 3,004,713 Input Tokens, 626,972 Output Tokens
 
-💵 $114.97 Estimated AI Cost This Week
+💵 $237.94 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 47 AI Prompts
+🧠 28 AI Sessions, 70 AI Prompts
 
-Opencode-Cli             2,106 lines         ██████████████████░░░░░░░   70.65 % 
-Glm                      782 lines           ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-Deepseek                 93 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Glm                      2,942 lines         ███████████████░░░░░░░░░░   59.75 % 
+Opencode-Cli             1,889 lines         ██████████░░░░░░░░░░░░░░░   38.36 % 
+Deepseek                 93 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.91% of written lines came from AI
-📚 Verbose Prompter — average 4,726 characters per prompt
+🤖 AI-Driven — 90.8% of written lines came from AI
+📚 Verbose Prompter — average 4,315 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 13.6% of changed lines were hand-edited
+🚀 High AI Trust — 9.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -152,7 +153,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:04:08 UTC
+ Last Updated on 30/08/2026 21:20:18 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
