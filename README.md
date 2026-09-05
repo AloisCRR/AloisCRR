@@ -56,9 +56,9 @@ Here are some of the technologies I'm proficient in:
 
 **🐱 My GitHub Data** 
 
-> 📦 62.2 kB Used in GitHub's Storage 
+> 📦 62.3 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2026
+> 🏆 54 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,47 +93,47 @@ Sunday                   496 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               9 hrs 25 mins       ██████████████░░░░░░░░░░░   57.80 % 
-Markdown                 4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Python                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+TypeScript               10 hrs 15 mins      ███████████████░░░░░░░░░░   59.37 % 
+Markdown                 4 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Python                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-budget-planning          14 hrs 21 mins      ██████████████████████░░░   88.06 % 
-best-llm-models-cost-inte56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-opencode                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+budget-planning          15 hrs 18 mins      ██████████████████████░░░   88.72 % 
+best-llm-models-cost-inte56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+opencode                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-WSL                      16 hrs 18 mins      █████████████████████████   100.00 % 
+WSL                      17 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 24 mins (88.35%)
+⏱ AI Coding Time: 14 hrs 58 mins (86.76%)
 
-✍️ 19,216 lines written by AI, 136 lines written by hand (99.3% AI-written)
+✍️ 19,229 lines written by AI, 159 lines written by hand (99.18% AI-written)
 
-🔤 8,642,806 Input Tokens, 1,723,223 Output Tokens
+🔤 9,184,400 Input Tokens, 1,789,527 Output Tokens
 
-💵 $846.68 Estimated AI Cost This Week
+💵 $865.41 Estimated AI Cost This Week
 
-🧠 68 AI Sessions, 159 AI Prompts
+🧠 73 AI Sessions, 167 AI Prompts
 
-Glm                      19,223 lines        ████████████████████████░   96.22 % 
+Glm                      19,241 lines        ████████████████████████░   96.22 % 
 Deepseek                 756 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.3% of written lines came from AI
-📚 Verbose Prompter — average 4,233 characters per prompt
+🤖 AI-Driven — 99.18% of written lines came from AI
+📚 Verbose Prompter — average 4,173 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.82% of changed lines were hand-edited
+🚀 High AI Trust — 1.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -153,7 +153,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 20:55:34 UTC
+ Last Updated on 05/09/2026 20:33:44 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
