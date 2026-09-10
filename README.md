@@ -48,9 +48,9 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C657%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C660%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -93,48 +93,48 @@ Sunday                   501 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-Python                   12 hrs 22 mins      ████████████░░░░░░░░░░░░░   48.04 % 
-Markdown                 6 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-JSON                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-TOML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Makefile                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Python                   13 hrs 36 mins      ████████████░░░░░░░░░░░░░   47.60 % 
+Markdown                 6 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+JSON                     3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+TOML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Makefile                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-marketing-intelligence   24 hrs 28 mins      ████████████████████████░   94.97 % 
-budget-planning          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-opencode                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-repossessed-assets       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+marketing-intelligence   25 hrs 54 mins      ███████████████████████░░   90.56 % 
+opencode                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+budget-planning          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+empty-probe-new          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-WSL                      25 hrs 46 mins      █████████████████████████   100.00 % 
+WSL                      28 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 21 mins (82.84%)
+⏱ AI Coding Time: 23 hrs 59 mins (83.86%)
 
-✍️ 18,534 lines written by AI, 172 lines written by hand (99.08% AI-written)
+✍️ 20,093 lines written by AI, 173 lines written by hand (99.15% AI-written)
 
-🔤 18,934,977 Input Tokens, 1,772,802 Output Tokens
+🔤 20,781,757 Input Tokens, 1,999,938 Output Tokens
 
-💵 $700.12 Estimated AI Cost This Week
+💵 $774.16 Estimated AI Cost This Week
 
-🧠 144 AI Sessions, 362 AI Prompts
+🧠 169 AI Sessions, 392 AI Prompts
 
-Spark                    18,946 lines        █████████████████████████   99.91 % 
+Spark                    20,509 lines        █████████████████████████   99.91 % 
 Glm                      18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.08% of written lines came from AI
-📚 Verbose Prompter — average 2,894 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.86% of changed lines were hand-edited
+🤖 AI-Driven — 99.15% of written lines came from AI
+📚 Verbose Prompter — average 2,798 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,7 +154,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:04:24 UTC
+ Last Updated on 10/09/2026 21:03:08 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
