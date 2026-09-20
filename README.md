@@ -48,17 +48,17 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C680%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C681%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 64.5 kB Used in GitHub's Storage 
+> 📦 64.7 kB Used in GitHub's Storage 
  > 
-> 🏆 127 Contributions in the Year 2026
+> 🏆 128 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -69,21 +69,21 @@ Here are some of the technologies I'm proficient in:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                555 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-🌆 Daytime                814 commits         █████████░░░░░░░░░░░░░░░░   36.52 % 
-🌃 Evening                735 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
+🌞 Morning                555 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+🌆 Daytime                815 commits         █████████░░░░░░░░░░░░░░░░   36.55 % 
+🌃 Evening                735 commits         ████████░░░░░░░░░░░░░░░░░   32.96 % 
 🌙 Night                  125 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Tuesday                  328 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Wednesday                108 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Thursday                 141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Tuesday                  328 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Wednesday                108 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Thursday                 141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 Friday                   188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Saturday                 669 commits         ████████░░░░░░░░░░░░░░░░░   30.01 % 
-Sunday                   509 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Saturday                 670 commits         ████████░░░░░░░░░░░░░░░░░   30.04 % 
+Sunday                   509 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
 ```
 
 
@@ -93,49 +93,47 @@ Sunday                   509 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-Python                   9 hrs 28 mins       ███████████████░░░░░░░░░░   59.31 % 
-Markdown                 4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Python                   6 hrs 45 mins       ██████████████░░░░░░░░░░░   55.27 % 
+Markdown                 3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-marketing-intelligence   15 hrs 27 mins      ████████████████████████░   96.75 % 
-Unknown Project          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-research                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-omp                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-archify                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+marketing-intelligence   11 hrs 49 mins      ████████████████████████░   96.81 % 
+research                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-WSL                      15 hrs 59 mins      █████████████████████████   100.00 % 
+WSL                      12 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 20 mins (89.73%)
+⏱ AI Coding Time: 11 hrs 2 mins (90.4%)
 
-✍️ 2,819 lines written by AI, 296 lines written by hand (90.5% AI-written)
+✍️ 2,444 lines written by AI, 286 lines written by hand (89.52% AI-written)
 
-🔤 362,467,584 Input Tokens, 2,787,746 Output Tokens
+🔤 222,062,225 Input Tokens, 1,752,633 Output Tokens
 
-💵 $2177.97 Estimated AI Cost This Week
+💵 $1432.69 Estimated AI Cost This Week
 
-🧠 3330 AI Sessions, 434 AI Prompts
+🧠 2021 AI Sessions, 338 AI Prompts
 
-OMP                      2,819 lines         █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OMP                      2,492 lines         █████████████████████████   100.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.5% of written lines came from AI
-📄 Detailed Prompter — average 600 characters per prompt
+🤖 AI-Driven — 89.52% of written lines came from AI
+📄 Detailed Prompter — average 541 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 15.47% of changed lines were hand-edited
+🚀 High AI Trust — 17.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -155,7 +153,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:54:20 UTC
+ Last Updated on 20/09/2026 20:59:08 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
