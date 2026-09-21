@@ -48,9 +48,9 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C681%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C683%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -93,47 +93,47 @@ Sunday                   509 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-Python                   6 hrs 45 mins       ██████████████░░░░░░░░░░░   55.27 % 
-Markdown                 3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Python                   5 hrs 31 mins       █████████████████░░░░░░░░   66.07 % 
+Markdown                 1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-marketing-intelligence   11 hrs 49 mins      ████████████████████████░   96.81 % 
-research                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+marketing-intelligence   8 hrs 7 mins        ████████████████████████░   97.25 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+research                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-WSL                      12 hrs 12 mins      █████████████████████████   100.00 % 
+WSL                      8 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 2 mins (90.4%)
+⏱ AI Coding Time: 7 hrs 33 mins (90.41%)
 
-✍️ 2,444 lines written by AI, 286 lines written by hand (89.52% AI-written)
+✍️ 927 lines written by AI, 282 lines written by hand (76.67% AI-written)
 
-🔤 222,062,225 Input Tokens, 1,752,633 Output Tokens
+🔤 147,980,510 Input Tokens, 996,548 Output Tokens
 
-💵 $1432.69 Estimated AI Cost This Week
+💵 $1091.12 Estimated AI Cost This Week
 
-🧠 2021 AI Sessions, 338 AI Prompts
+🧠 1185 AI Sessions, 229 AI Prompts
 
-OMP                      2,492 lines         █████████████████████████   100.00 % 
+OMP                      1,110 lines         █████████████████████████   100.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.52% of written lines came from AI
-📄 Detailed Prompter — average 541 characters per prompt
+🤖 AI-Driven — 76.67% of written lines came from AI
+📄 Detailed Prompter — average 593 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 17.6% of changed lines were hand-edited
+🚀 High AI Trust — 24.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -153,7 +153,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 20:59:08 UTC
+ Last Updated on 21/09/2026 22:06:42 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
