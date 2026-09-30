@@ -93,49 +93,49 @@ Sunday                   509 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.51 % 
-Markdown                 1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-Python                   1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+TypeScript               2 hrs 1 min         ████████████░░░░░░░░░░░░░   48.77 % 
+Markdown                 1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+HTML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Image (png)              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-budget-planning          3 hrs 59 mins       ████████████████░░░░░░░░░   64.12 % 
-marketing-intelligence   2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.20 % 
-research                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-mo, single-service previe1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-budget-promo             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+budget-planning          3 hrs 59 mins       ████████████████████████░   96.19 % 
+research                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+mo, single-service previe1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+budget-promo             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+omp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-WSL                      6 hrs 13 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 33 mins (89.43%)
+⏱ AI Coding Time: 3 hrs 53 mins (93.96%)
 
-✍️ 482 lines written by AI, 10 lines written by hand (97.97% AI-written)
+✍️ 77 lines written by AI, 5 lines written by hand (93.9% AI-written)
 
-🔤 157,729,715 Input Tokens, 1,340,493 Output Tokens
+🔤 130,977,242 Input Tokens, 1,238,867 Output Tokens
 
-💵 $946.92 Estimated AI Cost This Week
+💵 $826.12 Estimated AI Cost This Week
 
-🧠 1617 AI Sessions, 282 AI Prompts
+🧠 1401 AI Sessions, 267 AI Prompts
 
-OMP                      482 lines           █████████████████████████   100.00 % 
+OMP                      94 lines            █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.97% of written lines came from AI
-📝 Concise Prompter — average 142 characters per prompt
+🤖 AI-Driven — 93.9% of written lines came from AI
+📝 Concise Prompter — average 121 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 2.82% of changed lines were hand-edited
+🚀 High AI Trust — 8.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -155,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:29:55 UTC
+ Last Updated on 30/09/2026 22:28:35 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
