@@ -48,9 +48,9 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C692%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C698%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -93,46 +93,46 @@ Sunday                   509 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-Markdown                 3 hrs               █████████░░░░░░░░░░░░░░░░   37.52 % 
-Other                    1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Python                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Markdown                 3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.29 % 
+TypeScript               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+Other                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Python                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ayn-odin-3               3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.93 % 
-artemis                  2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-budget-planning          1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-omp                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+ayn-odin-3               3 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
+budget-planning          2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+artemis                  2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+omp                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 💻 Operating System: 
-WSL                      7 hrs 59 mins       █████████████████████████   100.00 % 
+WSL                      8 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 8 hrs 57 mins (100.0%)
 
-✍️ 477 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 669 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 59,845,864 Input Tokens, 1,000,848 Output Tokens
+🔤 74,850,270 Input Tokens, 1,105,337 Output Tokens
 
-💵 $362.09 Estimated AI Cost This Week
+💵 $452.39 Estimated AI Cost This Week
 
-🧠 1142 AI Sessions, 146 AI Prompts
+🧠 1340 AI Sessions, 162 AI Prompts
 
-OMP                      477 lines           █████████████████████████   100.00 % 
+OMP                      669 lines           █████████████████████████   100.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 246 characters per prompt
+📝 Concise Prompter — average 278 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -154,7 +154,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:44:43 UTC
+ Last Updated on 06/10/2026 00:14:26 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
