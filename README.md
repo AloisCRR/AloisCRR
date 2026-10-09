@@ -93,50 +93,50 @@ Sunday                   509 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.72 % 
-Markdown                 3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Python                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+TypeScript               4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Markdown                 3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Python                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 7 mins       ████████████████████████░   94.06 % 
-OMP                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+VS Code                  11 hrs 44 mins      ███████████████████████░░   93.47 % 
+OMP                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
 🐱‍💻 Projects: 
-budget-planning          5 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.10 % 
-ayn-odin-3               3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.39 % 
-artemis                  2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-omp                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+budget-planning          5 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.40 % 
+ayn-odin-3               3 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+artemis                  2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+research                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+omp                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-WSL                      11 hrs 49 mins      █████████████████████████   100.00 % 
+WSL                      12 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 40 mins (98.74%)
+⏱ AI Coding Time: 12 hrs 24 mins (98.81%)
 
-✍️ 1,260 lines written by AI, 5 lines written by hand (99.6% AI-written)
+✍️ 1,379 lines written by AI, 5 lines written by hand (99.64% AI-written)
 
-🔤 106,345,909 Input Tokens, 1,354,530 Output Tokens
+🔤 115,174,449 Input Tokens, 1,482,421 Output Tokens
 
-💵 $641.72 Estimated AI Cost This Week
+💵 $695.03 Estimated AI Cost This Week
 
-🧠 1780 AI Sessions, 199 AI Prompts
+🧠 1942 AI Sessions, 258 AI Prompts
 
-OMP                      1,260 lines         █████████████████████████   100.00 % 
+OMP                      1,379 lines         █████████████████████████   100.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📝 Concise Prompter — average 286 characters per prompt
+🤖 AI-Driven — 99.64% of written lines came from AI
+📝 Concise Prompter — average 229 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.94% of changed lines were hand-edited
+🚀 High AI Trust — 0.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +156,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:30:44 UTC
+ Last Updated on 09/10/2026 22:48:20 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
