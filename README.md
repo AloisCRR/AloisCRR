@@ -48,9 +48,9 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C702%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C703%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -93,50 +93,49 @@ Sunday                   509 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-TypeScript               4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Markdown                 3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Python                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+TypeScript               4 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.66 % 
+Markdown                 3 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.06 % 
+Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Python                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 44 mins      ███████████████████████░░   93.47 % 
-OMP                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+VS Code                  11 hrs 23 mins      ███████████████████████░░   90.45 % 
+OMP                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🐱‍💻 Projects: 
-budget-planning          5 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.40 % 
-ayn-odin-3               3 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-artemis                  2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-research                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-omp                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+budget-planning          5 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.78 % 
+ayn-odin-3               3 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+artemis                  2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+research                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-WSL                      12 hrs 33 mins      █████████████████████████   100.00 % 
+WSL                      12 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 24 mins (98.81%)
+⏱ AI Coding Time: 12 hrs 27 mins (98.81%)
 
-✍️ 1,379 lines written by AI, 5 lines written by hand (99.64% AI-written)
+✍️ 1,547 lines written by AI, 5 lines written by hand (99.68% AI-written)
 
-🔤 115,174,449 Input Tokens, 1,482,421 Output Tokens
+🔤 120,275,455 Input Tokens, 1,492,716 Output Tokens
 
-💵 $695.03 Estimated AI Cost This Week
+💵 $725.94 Estimated AI Cost This Week
 
-🧠 1942 AI Sessions, 258 AI Prompts
+🧠 1955 AI Sessions, 254 AI Prompts
 
-OMP                      1,379 lines         █████████████████████████   100.00 % 
+OMP                      1,547 lines         █████████████████████████   100.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.64% of written lines came from AI
-📝 Concise Prompter — average 229 characters per prompt
+🤖 AI-Driven — 99.68% of written lines came from AI
+📝 Concise Prompter — average 231 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 0.86% of changed lines were hand-edited
+🚀 High AI Trust — 0.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:48:20 UTC
+ Last Updated on 10/10/2026 21:56:03 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
