@@ -48,9 +48,9 @@ Here are some of the technologies I'm proficient in:
 ## WakaTime - Development Stats 📊
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C707%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C714%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -93,51 +93,51 @@ Sunday                   509 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-Markdown                 6 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.10 % 
-Other                    2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Astro                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-TypeScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Markdown                 6 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.92 % 
+Other                    2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Astro                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+TypeScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 32 mins      ████████████████████░░░░░   79.72 % 
-OMP                      2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+VS Code                  12 hrs              ████████████████████░░░░░   79.81 % 
+OMP                      3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 
 🐱‍💻 Projects: 
-resume                   4 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
-portfolio                4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-research                 2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-rpi-4                    1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Unknown Project          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+resume                   4 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
+portfolio                4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+research                 3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+rpi-4                    1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Unknown Project          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 💻 Operating System: 
-WSL                      14 hrs 28 mins      █████████████████████████   100.00 % 
+WSL                      15 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 21 mins (92.27%)
+⏱ AI Coding Time: 13 hrs 56 mins (92.57%)
 
-✍️ 2,203 lines written by AI, 185 lines written by hand (92.25% AI-written)
+✍️ 2,204 lines written by AI, 186 lines written by hand (92.22% AI-written)
 
-🔤 123,914,526 Input Tokens, 1,417,717 Output Tokens
+🔤 130,314,603 Input Tokens, 1,536,545 Output Tokens
 
-💵 $742.82 Estimated AI Cost This Week
+💵 $780.80 Estimated AI Cost This Week
 
-🧠 2127 AI Sessions, 340 AI Prompts
+🧠 2244 AI Sessions, 383 AI Prompts
 
-OMP                      2,203 lines         █████████████████████████   100.00 % 
+OMP                      2,204 lines         █████████████████████████   100.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.25% of written lines came from AI
-📝 Concise Prompter — average 206 characters per prompt
+🤖 AI-Driven — 92.22% of written lines came from AI
+📝 Concise Prompter — average 195 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 10.15% of changed lines were hand-edited
+🚀 High AI Trust — 10.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +157,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:52:48 UTC
+ Last Updated on 15/10/2026 21:36:30 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
