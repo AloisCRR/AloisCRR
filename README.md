@@ -93,51 +93,51 @@ Sunday                   509 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Panama
 
 💬 Programming Languages: 
-Markdown                 5 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
-Other                    2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Astro                    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-TypeScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Markdown                 5 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.33 % 
+Other                    2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Astro                    1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+TypeScript               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 19 mins      ████████████████████░░░░░   79.58 % 
-OMP                      2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+VS Code                  12 hrs 35 mins      ██████████████████████░░░   88.68 % 
+OMP                      1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
 
 🐱‍💻 Projects: 
-resume                   4 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.17 % 
-portfolio                4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.40 % 
-research                 2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-rpi-4                    1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Unknown Project          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+portfolio                5 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.46 % 
+resume                   4 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.25 % 
+research                 2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Unknown Project          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+rpi-4                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 💻 Operating System: 
-WSL                      14 hrs 13 mins      █████████████████████████   100.00 % 
+WSL                      14 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 6 mins (92.14%)
+⏱ AI Coding Time: 12 hrs 46 mins (89.94%)
 
-✍️ 1,953 lines written by AI, 186 lines written by hand (91.3% AI-written)
+✍️ 2,393 lines written by AI, 186 lines written by hand (92.79% AI-written)
 
-🔤 120,030,614 Input Tokens, 1,396,483 Output Tokens
+🔤 108,375,291 Input Tokens, 1,384,393 Output Tokens
 
-💵 $721.35 Estimated AI Cost This Week
+💵 $751.69 Estimated AI Cost This Week
 
-🧠 2065 AI Sessions, 323 AI Prompts
+🧠 1985 AI Sessions, 392 AI Prompts
 
-OMP                      1,953 lines         █████████████████████████   100.00 % 
-Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OMP                      1,953 lines         ████████████████████░░░░░   81.61 % 
+Spark                    440 lines           █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.3% of written lines came from AI
-📝 Concise Prompter — average 225 characters per prompt
+🤖 AI-Driven — 92.79% of written lines came from AI
+📝 Concise Prompter — average 183 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 11.35% of changed lines were hand-edited
+🚀 High AI Trust — 9.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +157,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AloisCRR/AloisCRR/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:48:04 UTC
+ Last Updated on 18/10/2026 20:57:15 UTC
 <!--END_SECTION:waka-->
 
 ## Just for Fun 😄
